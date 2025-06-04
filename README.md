@@ -37,9 +37,9 @@ pip install boto3
 
 # CSV File Format
 
-## Create a CSV file named 
-
 Sample csv found [here](user_attribute_updates_template.csv)
+
+## Create a CSV file named 
 
 ```
 user_attribute_updates.csv
