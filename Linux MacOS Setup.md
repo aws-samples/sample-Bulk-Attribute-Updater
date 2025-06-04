@@ -2,7 +2,7 @@
 
 ## Install
 
-1. To use the script:
+1. To use the script from [here](linux/install.sh):
 
 ```
 # Save the script as install.sh
