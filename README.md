@@ -13,6 +13,8 @@ This tool allows you to bulk update user attributes and proficiency levels in Am
 * boto3 library installed
 * Access to Amazon Connect instance
 
+  **If Pyhton is not installed, run the install script for your OS in this repo to setup your environment.
+
 ## Installation
 
 1. Install required dependencies:
@@ -21,9 +23,17 @@ This tool allows you to bulk update user attributes and proficiency levels in Am
 pip install boto3
 ```
 
-1. Configure AWS credentials using AWS CLI or credentials file with a named profile
+2. Configure AWS credentials using AWS CLI or credentials file with a named profile
 
 ***Ensure your credentials have the correct permissions*
+
+3. Update the bulk_User_Attribute_Proficiency_Update.py with correct values for your environment.
+    * line 16 profile_name and region_name
+    * line 18 instance_id (use the GUID)
+
+4. Create the csv file using the format shown in the next ssection.
+
+5. Run the script and monitor output
 
 # CSV File Format
 
