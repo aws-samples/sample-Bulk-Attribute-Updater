@@ -1,4 +1,4 @@
-# Connect User Profile Manager
+# Bulk Attribute Manager
 
 A Python utility for managing Amazon Connect user attributes through CSV-based bulk updates.
 
