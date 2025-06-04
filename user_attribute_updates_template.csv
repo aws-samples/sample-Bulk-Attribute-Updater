@@ -1,0 +1,6 @@
+identifier,identifier_type,action,attribute,value,level
+john.doe@example.com,username,add,Language,Spanish,5
+user123,user_id,remove,Language,French,0
+jane.smith,username,update,Skill,Sales,3
+bob.wilson,username,add,Language,English,4
+sarah.jones,username,update,Skill,Technical,5
