@@ -31,13 +31,15 @@ pip install boto3
     * line 16 profile_name and region_name
     * line 18 instance_id (use the GUID)
 
-4. Create the csv file using the format shown in the next ssection.
+4. Create the csv file using the format shown in the next section.
 
 5. Run the script and monitor output
 
 # CSV File Format
 
 ## Create a CSV file named 
+
+Sample csv found [here](user_attribute_updates_template.csv)
 
 ```
 user_attribute_updates.csv
