@@ -17,7 +17,7 @@ This tool allows you to bulk update user attributes and proficiency levels in Am
 
 ## Installation
 
-1. Install required dependencies:
+1. Install required dependencies, if needed:
 
 ```
 pip install boto3
