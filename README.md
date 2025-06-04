@@ -13,7 +13,7 @@ This tool allows you to bulk update user attributes and proficiency levels in Am
 * boto3 library installed
 * Access to Amazon Connect instance
 
-  **If Pyhton is not installed, run the install script for your OS in this repo to setup your environment.
+  **If Python is not installed, run the install script for your OS in this repo to setup your environment.
 
 ## Installation
 
